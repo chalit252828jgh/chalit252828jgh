@@ -1,8 +1,9 @@
-# HELLO EVERYONE! 👋
+# HELLO May I introduce myself! 👋
 * My name is Chalita Yotduang.
 * My nick name is Jomjam.
 * I'm 22 years old.
-* I'm studying at Mahasarakham University in major Business Computer.
+* I'm studying at Mahasarakham University 
+* My  major is Business Computer.
  
 ## CONTACT
 - E-mail:61010912513@msu.ac.th
@@ -15,7 +16,7 @@
 3. Drawing
 4. Online education
 
-## Experience
+## EXPERIENCE
 - 2021 training Awake Your Creative Power
 - 2021 training Introduction to Data Studio
 - 2021 อบรมสู่การเป็นนักพัฒนาเว็บ : การสร้างหน้าเว็บเบื้องต้น ด้วย HTML และ CSS
