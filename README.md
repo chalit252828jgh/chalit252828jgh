@@ -30,8 +30,6 @@
 6. Microsoft Powerpoint
 7. Drawing
 
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-
 
 <!--
 **chalit252828jgh/chalit252828jgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
