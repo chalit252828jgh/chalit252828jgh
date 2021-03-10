@@ -1,8 +1,8 @@
 ### HELLO EVERYONE! 👋
-- My name is chalita Yotduang.
-- My nick name is Jomjam.
-- I'm 22 years old.
-- I'm studying at Mahasarakham University in major Business Computer.
+. My name is chalita Yotduang.
+. My nick name is Jomjam.
+. I'm 22 years old.
+. I'm studying at Mahasarakham University in major Business Computer.
  
 ## Contact
 - E-mail:61010912513@msu.ac.th
