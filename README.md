@@ -10,8 +10,9 @@
 - tel:061-9626797
 
 ## Experience
-- 2021 Audit training Awake Your Creative Power
-- 2021 Audit training Introduction to Data Studio
+- 2021 training Awake Your Creative Power
+- 2021 training Introduction to Data Studio
+- 2021 อบรมสู่การเป็นนักพัฒนาเว็บ : การสร้างหน้าเว็บเบื้องต้น ด้วย HTML และ CSS
 - 2020 Audit training Cisco Networking Academy Program(R&S)
 
 ## SKILL
