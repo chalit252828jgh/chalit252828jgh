@@ -1,4 +1,4 @@
-### HELLO EVERYONE! 👋
+# HELLO EVERYONE! 👋
 * My name is chalita Yotduang.
 * My nick name is Jomjam.
 * I'm 22 years old.
@@ -8,6 +8,12 @@
 - E-mail:61010912513@msu.ac.th
 - Facebook:ชลิต ชลิต
 - tel:061-9626797
+
+## ACTIVITES
+1. Listening to music
+2. Write a fiction
+3. Drawing
+4. Online education
 
 ## Experience
 - 2021 training Awake Your Creative Power
@@ -24,11 +30,7 @@
 6. Microsoft Powerpoint
 7. Drawing
 
-## ACTIVITES
-1. Listening to music
-2. Write a fiction
-3. Drawing
-4. Online education
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 
 
 <!--
