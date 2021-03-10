@@ -1,18 +1,18 @@
 ### HELLO EVERYONE! 👋
-* My name is chalita Yotduang.
-* My nick name is Jomjam.
-* I'm 22 years old.
-* I'm studying at Mahasarakham University in major Business Computer.
+- My name is chalita Yotduang.
+- My nick name is Jomjam.
+- I'm 22 years old.
+- I'm studying at Mahasarakham University in major Business Computer.
  
 ## Contact
-1. E-mail:61010912513@msu.ac.th
-2. Facebook:ชลิต ชลิต
-3. tel:061-9626797
+- E-mail:61010912513@msu.ac.th
+- Facebook:ชลิต ชลิต
+- tel:061-9626797
 
 ## Experience
-1. 2021 Audit training Awake Your Creative Power
-2. 2021 Audit training Introduction to Data Studio
-3. 2020 Audit training Cisco Networking Academy Program(R&S)
+- 2021 Audit training Awake Your Creative Power
+- 2021 Audit training Introduction to Data Studio
+- 2020 Audit training Cisco Networking Academy Program(R&S)
 
 ## SKILL
 1. Eglish
