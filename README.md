@@ -4,11 +4,6 @@
 * I'm 22 years old.
 * I'm studying at Mahasarakham University 
 * My  major is Business Computer.
- 
-## 📫 CONTACT
-- E-mail:61010912513@msu.ac.th
-- Facebook:ชลิต ชลิต
-
 
 ## 👯 ACTIVITES
 1. Listening to music
