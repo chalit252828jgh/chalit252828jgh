@@ -8,7 +8,7 @@
 ## 📫 CONTACT
 - E-mail:61010912513@msu.ac.th
 - Facebook:ชลิต ชลิต
-- tel:061-9626797
+
 
 ## 👯 ACTIVITES
 1. Listening to music
